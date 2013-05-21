@@ -1,0 +1,24 @@
+{
+    "name": "exu/training",
+    "description": "PHPSpec trainig resources",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Jacek Wysocki",
+            "email": "jacek.wysocki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"": "src/"}
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "require-dev": {
+        "phpspec/phpspec": "*"
+    }
+}
