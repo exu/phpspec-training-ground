@@ -1,7 +1,5 @@
-README
-======
-
-## 1) FoodParser
+FoodParser
+==========
 
   To run this project you'll need composer http://getcomposer.org
 
